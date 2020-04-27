@@ -1,4 +1,4 @@
-# Initialization----Improving-Deep-Neural-Networks
+# Initialization of parameters----Improving-Deep-Neural-Networks
 
   By completing this assignment you will:
 
